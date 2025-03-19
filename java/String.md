@@ -1,6 +1,5 @@
 # String 클래스
 
-Status: 시작 전
 태그: Java
 
 ### String class

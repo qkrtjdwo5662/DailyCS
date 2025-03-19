@@ -1,6 +1,5 @@
 # Wrapper Class
 
-Status: 시작 전
 태그: Java
 
 ### 래퍼 클래스
